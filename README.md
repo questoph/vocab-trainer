@@ -11,9 +11,9 @@ This is a demonstration project developed in the context of the class "Computing
 - **Stats:** Display and reset your test statistics 
 - **Languages:** Manage word list for different languages
 
-The two test modes offer different possibilities for testing:
+The test modes offer different possibilities for testing:
 
-- Use items using the the entire word list
+- Use the entire word list
 - Use the latest additions to the list
 - Use the words you got wrong the most
 - Use the least tested words in the list
