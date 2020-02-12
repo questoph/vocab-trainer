@@ -24,7 +24,7 @@ To use the vocabulary trainer, clone the repo, enter the main directory, and run
 
 ``pip install -r requirements.txt``
 
-The following external libraries will be installed: *glob*, *prettyTable*.
+The following external libraries will be installed: *glob*, *prettytable*.
 
 After the installation, simply run the following command in your shell:
 
