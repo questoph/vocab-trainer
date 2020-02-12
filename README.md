@@ -1,8 +1,6 @@
 # Vocabulary trainer
 
-This is a demonstration project developed in the context of the class "Computing culture. An introduction to Python programming for the humanities. It is built as a combination of different Python scripts written in Python 3.7.
-
-The program can be used to enter, edit, and train words from different languages. It runs in your shell.
+This is a demonstration project developed in the context of the class "Computing culture. An introduction to Python programming for the humanities". It is built as a combination of scripts written in Python 3.7. The program can be used to enter, edit, and train words from different languages. It runs in your shell.
 
 ## Functions
 
