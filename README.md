@@ -1,6 +1,6 @@
 # Vocabulary trainer
 
-This is a demonstration project developed in the context of the class "Computing culture. An introduction to Python programming for the humanities". It is built as a combination of scripts written in Python 3.7. The program can be used to enter, edit, and train words in different languages. For now, it runs completely in your shell.
+This is a demonstration project developed in the context of the class "Computing culture. An introduction to Python programming for the humanities". It is built as a combination of scripts written in Python 3.7. The program can be used to enter, edit, and train words in different languages. For now, it runs entirely in your shell.
 
 ## Functions
 
@@ -13,10 +13,10 @@ This is a demonstration project developed in the context of the class "Computing
 
 The test modes offer different possibilities for testing:
 
-- Use the entire word list
-- Use the latest additions to the list
-- Use the words you got wrong the most
-- Use the least tested words in the list
+- Randomly choose from the entire word list
+- Randomly choose from the latest additions to the list
+- Randomly choose from the words you got wrong the most
+- Randomly choose from the least tested words in the list
 
 ## Use
 
